@@ -24,12 +24,6 @@ namespace ShopStore.API.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
-
-            TestApp a = new TestApp();
-            TestDomain b = new TestDomain();
-            TestRep c = new TestRep();
-
-
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
