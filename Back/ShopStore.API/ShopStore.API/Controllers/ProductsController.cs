@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopStore.Application.DTO;
 using ShopStore.Application.Interfaces;
-using ShopStore.Repository.Context;
 
 namespace ShopStore.API.Controllers
 {
@@ -22,7 +21,7 @@ namespace ShopStore.API.Controllers
             try
             {
                 var products = await _productService.GetAllProductsAsync(true);
-
+                 
                 if (products == null)
                     return NoContent();
 
@@ -58,7 +57,7 @@ namespace ShopStore.API.Controllers
         public async Task<IActionResult> Post(ProductDto model)
         {
             try
-            {
+            {   
                 var product = await _productService.AddProduct(model);
 
                 if (product == null)

@@ -18,8 +18,8 @@ namespace ShopStore.Repository
         {
             IQueryable<Product> query = _context.Products.AsNoTracking();
 
-            if (includeCategory)
-                query = query.Include(e => e.Category);
+            //if (includeCategory)
+            //    query = query.Include(e => e.Category);
 
             query = query.OrderBy(e => e.Id);
 
@@ -30,8 +30,8 @@ namespace ShopStore.Repository
         {
             IQueryable<Product> query = _context.Products.AsNoTracking();
 
-            if (includeCategory)
-                query = query.Include(e => e.Category);
+            //if (includeCategory)
+            //    query = query.Include(e => e.Category);
 
             query = query.OrderBy(e => e.Id).Where(e => e.Id == productId);
 
