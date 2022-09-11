@@ -1,0 +1,15 @@
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\bin\Debug\net6.0\ShopStore.Repository.exe
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\bin\Debug\net6.0\ShopStore.Repository.deps.json
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\bin\Debug\net6.0\ShopStore.Repository.runtimeconfig.json
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\bin\Debug\net6.0\ShopStore.Repository.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\bin\Debug\net6.0\ref\ShopStore.Repository.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\bin\Debug\net6.0\ShopStore.Repository.pdb
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.csproj.AssemblyReference.cache
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.AssemblyInfoInputs.cache
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.AssemblyInfo.cs
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ref\ShopStore.Repository.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.pdb
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Repository\obj\Debug\net6.0\ShopStore.Repository.genruntimeconfig.cache

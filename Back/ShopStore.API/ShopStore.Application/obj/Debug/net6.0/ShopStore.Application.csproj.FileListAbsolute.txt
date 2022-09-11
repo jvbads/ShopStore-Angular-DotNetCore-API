@@ -1,0 +1,14 @@
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\bin\Debug\net6.0\ShopStore.Application.exe
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\bin\Debug\net6.0\ShopStore.Application.deps.json
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\bin\Debug\net6.0\ShopStore.Application.runtimeconfig.json
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\bin\Debug\net6.0\ShopStore.Application.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\bin\Debug\net6.0\ref\ShopStore.Application.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\bin\Debug\net6.0\ShopStore.Application.pdb
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.AssemblyInfoInputs.cache
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.AssemblyInfo.cs
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ref\ShopStore.Application.dll
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.pdb
+C:\Projects\ShopStore-Angular-DotNetCore-API\Back\ShopStore.API\ShopStore.Application\obj\Debug\net6.0\ShopStore.Application.genruntimeconfig.cache
