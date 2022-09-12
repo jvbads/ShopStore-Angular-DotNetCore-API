@@ -105,7 +105,7 @@ namespace ShopStore.API.Controllers
                 {
                     // TODO: Lembrar de deletar a imagem
 
-                    return Ok(new { message = "Produto foi deletado com sucesso." });
+                    return Ok(true);
                 }
                 else
                 {
